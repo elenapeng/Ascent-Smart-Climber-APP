@@ -1,2 +1,2 @@
 # Ascent-Smart-Climber-APP
-An Android APP for a customized motor assist climber.
+An Android App for a customized motor assist climber.
