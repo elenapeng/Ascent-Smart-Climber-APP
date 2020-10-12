@@ -11,6 +11,14 @@ An Android App created through MIT App Inventor 2 for a customized motor assist 
 
 (4) Interactive interphase for adjusting exercise protocols with voice control.
 
+- Summary of the code and structure:
+
+(1) Designer (user interface): 
+
+
+(2) Blocks: 
+
+
 
 
 
