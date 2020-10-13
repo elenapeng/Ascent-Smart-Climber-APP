@@ -3,10 +3,10 @@ An Android App created through MIT App Inventor 2 for a customized motor assist 
 
 Features of the Ascent Smart Climber App:
 ```
-1. Performance data storage and communication among 4 app screens (menu page, personal profile page, 
+(1) Performance data storage and communication among 4 app screens (menu page, personal profile page, 
 performace page, and voive control page).
 
-2. Receiving data from the Arduino control boards for real time feedback on distance, speed, power 
+(2) Receiving data from the Arduino control boards for real time feedback on distance, speed, power 
 output...etc.
 
 (3) Sending personal profile information, exercise protocol and performance data to google sheets.
@@ -16,7 +16,7 @@ output...etc.
 
 Instructions of "how to access the app content on the “MIT APP Inventor 2” website":
 ```
-(1)	Setup and login an account for “MIT App Inventor 2” to import the file ("AscentSmartClimber.aia").
+(1)Setup and login an account for “MIT App Inventor 2” to import the file ("AscentSmartClimber.aia").
 Visit http://appinventor.mit.edu/ and click on “Create Apps!”.
 
 (2) After login the the MIT App Inventor 2 account, click on “My Projects” from the top bar. Click 
