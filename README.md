@@ -1,6 +1,14 @@
 # Ascent-Smart-Climber-APP
-An Android App created through MIT App Inventor 2 for a customized motor assist climber, "Ascent Smart Clibmer". This repository includes (1) the code in a .aia file, (2) a 2-minute video testing voice control on the climber, (3) pictures of the app logo and the 4 screen interface in a PDF file.
-
+Contributor
+```
+Elena Peng
+```
+Content
+```
+An Android App created through MIT App Inventor 2 for a customized motor assist climber, "Ascent Smart Clibmer". 
+This repository includes (1) the code in a .aia file, (2) a 2-minute video testing voice control on the climber, 
+(3) pictures of the app logo and the 4 screen interface in a PDF file.
+```
 Features of the Ascent Smart Climber App:
 ```
 (1) Performance data storage and communication among 4 app screens (menu page, personal profile page, 
