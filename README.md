@@ -9,7 +9,7 @@ An Android App created through MIT App Inventor 2 for a customized motor assist 
 This repository includes (1) the code in a .aia file, (2) a 2-minute video testing voice control on the climber, 
 (3) pictures of the app logo and the 4 screen interface in a PDF file.
 ```
-Features of the Ascent Smart Climber App:
+Features of the Ascent Smart Climber App
 ```
 (1) Performance data storage and communication among 4 app screens (menu page, personal profile page, 
 performace page, and voive control page).
@@ -22,7 +22,7 @@ output...etc.
 (4) Interactive interphase for adjusting exercise protocols with voice control.
 ```
 
-Instructions of "how to access the app content on the “MIT APP Inventor 2” website":
+Instructions of "how to access the app content on the “MIT APP Inventor 2” website"
 ```
 (1) Setup and login an account for “MIT App Inventor 2” to import the file ("AscentSmartClimber.aia").
 Visit http://appinventor.mit.edu/ and click on “Create Apps!”.
@@ -32,7 +32,7 @@ on “Import project (.aia) from my computer” and choose the “AscentSmartCli
 “Import Project”. 
 ```
 
-Instructions of "how to download the app in an executable form (.apk) to install on the device":
+Instructions of "how to download the app in an executable form (.apk) to install on the device"
 ```
 (1) Log in to “MIT app Inventor 2” website. Under “My Projects”, open “AscentSmartClimber” file that 
 has been imported.
